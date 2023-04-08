@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class a {
     @GetMapping
     public String a(){
-        System.out.println("部署练习");
+        System.out.println("部署练习12");
         return "1234";
     }
 }
